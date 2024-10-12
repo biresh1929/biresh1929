@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.pinimg.com/originals/11/ed/09/11ed09885c3def9e6b740bc2bdc5b15c.gif" /></p>
 <h1 align="center">Hi 👋, I'm Biresh Kumar Singh</h1>
-<h3 align="center">Knowledge is Illusion</h3>
+<h3 align="center">You see what I chose to show you</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biresh1929&label=Profile%20views&color=0e75b6&style=flat" alt="biresh1929" /> </p>
 
