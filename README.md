@@ -1,9 +1,8 @@
+<p align="center"><img src="https://i.pinimg.com/originals/11/ed/09/11ed09885c3def9e6b740bc2bdc5b15c.gif" /></p>
 <h1 align="center">Hi 👋, I'm Biresh Kumar Singh</h1>
 <h3 align="center">A Never Give Up Debugger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biresh1929&label=Profile%20views&color=0e75b6&style=flat" alt="biresh1929" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biresh1929" alt="biresh1929" /></a> </p>
 
 - 🔭 I’m currently working on **Decentralized Banking System**
 
