@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biresh1929&label=Profile%20views&color=0e75b6&style=flat" alt="biresh1929" /> </p>
 
-- 🔭 I’m currently working on **Decentralized Banking System**
+- 🔭 I’m currently working on **Blockchain Enabled Property Registry Application in Svelte**
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
