@@ -283,7 +283,7 @@ Selected from 15,000+ registrations
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biresh1929&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area_color=1F6FEB&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biresh1929&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area_color=1F6FEB&area=true" width="900" height="300"/>
 </div>
 
 ---
