@@ -41,23 +41,6 @@ class AIEngineer:
 me = AIEngineer()
 me.say_hi()
 ```
-
-<div align="left">
-
-**Education:** B.Tech CSE (Expected 2027) | **CGPA:** 9.06/10
-
-**Passionate about:** Building production-ready AI systems with real-world impact
-
-**Currently working on:** AI Multimodal SAAS
-
-**Learning:** Advanced RAG architectures, LangChain, Agentic AI, Vector Databases
-
-**Experience:** SDE Intern @ Timechain Source Of Code (Jul-Sep 2024)
-
-**Open to:** AI/ML opportunities, especially in RAG, LLMs, and NLP
-
-</div>
-
 ---
 
 ## 🏆 Featured Projects
@@ -257,9 +240,7 @@ Shortlisted after rigorous coding rounds and technical interviews
 
 <img src="https://img.shields.io/badge/National%20Level-Hackathon-silver?style=for-the-badge" />
 
-**Top 20 Finalist among 72 teams**
-
-Selected from 15,000+ registrations
+**Selected from 15,000+ registrations**
 
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1LT9eH27-Yd-3qsLdxGd6U8hnueTbmBey/view)
 
@@ -343,52 +324,6 @@ graph LR
 | Prompt Engineering | AWS Cloud Architecture | Multi-Modal Models |
 | LLM Fine-tuning | Scalable Infrastructure | Vector Databases |
 | AI Security & Privacy | CI/CD for ML | AI Safety & Ethics |
-
-</div>
-
----
-
-## 💼 Open to Opportunities
-
-<div align="center">
-
-### **Actively Seeking AI/ML Roles**
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
-I'm passionate about building intelligent systems and am actively looking for opportunities in:
-
-**AI/ML Engineering** - RAG systems, LLM applications, NLP
-
-**Research & Development** - Cutting-edge AI solutions
-
-**Innovation Projects** - Agentic AI, Multi-modal systems
-
-**Full-time/Internship** - Ready to contribute from day one
-
-</div>
-
-<div align="center">
-
-**What I Offer:**
-
-Production-grade AI system development
-
-Strong foundation in ML/DL frameworks (TensorFlow, PyTorch, Keras)
-
-Expertise in RAG, LLMs, and prompt engineering
-
-End-to-end deployment experience (AWS, Docker, CI/CD)
-
-Proven problem-solving skills (Top hackathon finalist)
-
-Open-source contribution mindset
-
-**Specialized in:** Retrieval-Augmented Generation (RAG) · Large Language Models · NLP · Deep Learning · Prompt Engineering · Production ML Systems
-
-📧 **Let's Connect:** [bireshkumar1964@gmail.com](mailto:bireshkumar1964@gmail.com)
-
-💼 **LinkedIn:** [Biresh Kumar Singh](https://linkedin.com/in/biresh-kumar-singh-84a127281)
 
 </div>
 
