@@ -31,7 +31,7 @@ class AIEngineer:
         self.current_focus = ["RAG Systems", "LLM Applications", "Agentic AI"]
         self.achievements = {
             "JPMorgan Code for Good": "Top 450 / 50,000+ applicants",
-            "PAN IIT Imagine Cup": "Top 20 Finalist / 15,000+ registrations"
+            "PAN IIT Imagine Cup": "Finalist out of 15,000+ registrations with a 2% selection rate"
         }
         self.looking_for = "AI/ML opportunities in RAG and LLM development"
         
